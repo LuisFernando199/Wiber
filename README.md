@@ -6,6 +6,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
+![bdwiber](https://github.com/LuisFernando199/Wiber/assets/78904114/0a0c5e52-030f-4449-a692-4f04ed12ed69)
 
 # Blog de Alquiler de Coches
 
